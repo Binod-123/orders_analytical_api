@@ -1,6 +1,6 @@
-# 🔐 Laravel 10 REST API with JWT Authentication
+# REST API with JWT Authentication
 
-This is a secure **Laravel 10 RESTful API** built with **JWT (JSON Web Token)** authentication.  
+This is a secure **RESTful API** built with **JWT (JSON Web Token)** authentication.  
 It provides user registration, login/logout, analytics, and product/order management with data seeding.
 
 ---
